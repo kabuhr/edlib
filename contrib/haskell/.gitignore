@@ -1,0 +1,8 @@
+# Generated files
+Edlib.hs
+*_make.c
+*_make.hs
+*.hi
+
+# Main test program
+Main
